@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyPuz4haO5gnL6fEPH9OzB0J",
+      "authorship_tag": "ABX9TyNsfvuOAPhYYRwc5saIU9z7",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -609,7 +609,7 @@
         "            sns.scatterplot(data=df, x=col, y='Produksi')\n",
         "            plt.title(f'Hubungan antara {col} dan Produksi')\n",
         "            plt.xlabel(col)\n",
-        "            plt.ylabel('Produksi')\n",
+        "            plt.ylabel('Produksi')s\n",
         "            plt.tight_layout()\n",
         "            plt.show()\n",
         "        else:\n",
